@@ -1,0 +1,11 @@
+
+numpy
+gymnasium
+stable-baselines3[extra]
+torch
+pygame
+opencv-python
+pyautogui
+selenium
+tensorboard
+matplotlib

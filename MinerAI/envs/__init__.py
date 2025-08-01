@@ -1,0 +1,1 @@
+# MinerAI - Ambientes de jogo

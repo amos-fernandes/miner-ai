@@ -1,0 +1,14 @@
+{
+  "game_url": "https://roobet.com/mines",
+  "grid_size": 5,
+  "num_mines": 3,
+  "bet_amount": 1.0,
+  "screen_region": {
+    "left": 600,
+    "top": 400,
+    "width": 800,
+    "height": 600
+  },
+  "template_path": "templates/miner_tile.png",
+  "headless": false
+}
